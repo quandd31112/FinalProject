@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "508288130850",
+    "project_id": "ddtradeup-dce70",
+    "storage_bucket": "ddtradeup-dce70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508288130850:android:5933a0528887587deb8f7b",
+        "android_client_info": {
+          "package_name": "ddtradeup.ddtradeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508288130850-hfm45sl2lgso2koaie4tnsn23b9i66b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdNPHNmXshjfTKQG0yVglrsFn959Jonos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508288130850-hfm45sl2lgso2koaie4tnsn23b9i66b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
